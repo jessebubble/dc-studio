@@ -1,38 +1,16 @@
-# Welcome to Remix!
+# Digital Canvas Studio 
+Digital Canvas Studio bridges the gap for K-12 creatives who love to explore the intersection of art and technology. We go beyond traditional after-school programs, offering a unique curriculum focused on Figma and Adobe Creative Cloud
 
-- [Remix Docs](https://remix.run/docs)
+## From drawing to design: Unleash your child's digital potential
 
-## Development
+- **Designed for Creative Minds:** We nurture young imaginations by combining artistic expression with technical skills development.
 
-From your terminal:
+- **Future-Proof Learning:** Go beyond STEM. We equip students with the digital design tools used by industry professionals, preparing them for careers in the ever-evolving creative landscape.
 
-```sh
-npm run dev
-```
+- **Unlocking Potential:** Our engaging curriculum empowers students to tell their stories, express themselves, and confidently navigate the digital world.
 
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
+<img
+    src="https://res.cloudinary.com/jessebubble/image/upload/v1709503719/dc-studio/pexels-rfstudio-3817580_demi0k.jpg"
+    alt="drawing on paper meets digital design"
+    width="50%"
+/>
