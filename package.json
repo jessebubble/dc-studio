@@ -7,6 +7,7 @@
     "build": "remix build",
     "dev": "remix dev --manual",
     "format": "npx prettier . --write",
+    "deploy": "fly deploy",
     "lint": "eslint --ignore-path .gitignore --cache --cache-location ./node_modules/.cache/eslint .",
     "start": "remix-serve ./build/index.js",
     "typecheck": "tsc"
@@ -19,14 +20,13 @@
     "@remix-run/react": "^2.8.0",
     "@remix-run/serve": "^2.8.0",
     "clsx": "^2.1.0",
-    "dat.gui": "^0.7.9",
     "framer-motion": "^11.0.8",
-    "gsap": "^3.12.5",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.2",
     "@remix-run/dev": "^2.8.0",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/container-queries": "^0.1.1",
